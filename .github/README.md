@@ -23,7 +23,7 @@
 
 ## Usage 💻
 
-This project is still a WIP, but you can already find some examples in the [**tests/**](./tests/) folder to get started.
+This project is still a WIP, but you can already find some examples in the [tests/](./tests/) folder to get started.
 
 ## Development 🤓
 
@@ -39,4 +39,4 @@ TODO: write Development instructions
 
 ## Contributors 👨‍💻👩‍💻
 
-- [=](https://github.com/Leorevoir) - creator and maintainer
+- [**Leorevoir**](https://github.com/Leorevoir) - creator and maintainer
